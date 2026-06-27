@@ -8,7 +8,7 @@ A compact embedded safety device that sends your GPS location to emergency conta
 
 ## Demo
 
-> *(Add photo of assembled PCB / device here)*
+![3D PCB Render](media/pcb_render.png)
 
 ---
 
